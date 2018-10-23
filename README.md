@@ -1,2 +1,0 @@
-# SHPS
-SHPS-Project

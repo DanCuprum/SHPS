@@ -1,0 +1,14 @@
+[
+{"TimeStamp" : "14-33-24",
+ "LabelName" : "Hindernis 1 Auffahrt",
+ "LabelFarbe" : "Gruen"},
+{"TimeStamp" : "14-33-27",
+ "LabelName" : "Hindernis 1 Abfahrt",
+ "LabelFarbe" : "Gelb"},
+{"TimeStamp" : "14-35-48",
+ "LabelName" : "Hindernis 2 Auffahrt",
+ "LabelFarbe" : "Rot"},
+{"TimeStamp" : "14-35-53",
+ "LabelName" : "Hindernis 2 Abfahrt",
+ "LabelFarbe" : "Orange"}
+]
