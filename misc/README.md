@@ -1,1 +1,0 @@
-# SHPS-Projekt
